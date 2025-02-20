@@ -42,3 +42,4 @@ build/
 /src/main/java/com/dinidu/Main.java
 /.idea/misc.xml
 .idea
+/One-to-Many/src/main/resources/hibernate.cfg.xml
